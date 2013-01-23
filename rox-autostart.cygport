@@ -1,6 +1,11 @@
 ORIG_PN="Autostart"
 inherit rox
 
+NAME="rox-autostart"
+VERSION=1.1
+RELEASE=2
+CATEGORY="ROX"
+SUMMARY="ROX autostart manager"
 
 HOMEPAGE="http://users.unet.net.ph/~lars/rox/Autostart/"
 SRC_URI="${HOMEPAGE}/${ORIG_PN}-${PV}.tar.gz"
